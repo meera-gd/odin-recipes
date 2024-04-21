@@ -5,3 +5,9 @@ body {
 h1 {
   background-color: yellow;
 }
+
+.recipe-link {
+	padding: 10px;
+	border: 2px dotted blue;
+	margin: 5px;
+}
